@@ -73,3 +73,6 @@ All records are synthetic practice data created for learning and portfolio demon
 [GitHub Repository](https://github.com/shafiul414/customer-orders-retention-analysis)  
 [LinkedIn Profile](https://www.linkedin.com/in/shafiul-mursalin-0620251b9/)
 
+### 🚀 Live Demo
+[Explore the interactive Streamlit app](https://share.streamlit.io/user/shafiul414)
+
